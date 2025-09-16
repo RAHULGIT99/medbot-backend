@@ -2,5 +2,5 @@ httpx
 python-dotenv
 fastapi
 pydantic
-pinecone-client
+pinecone
 uvicorn
