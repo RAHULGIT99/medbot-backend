@@ -1,6 +1,8 @@
-httpx
-python-dotenv
 fastapi
+uvicorn
+python-dotenv
+requests
+httpx
 pydantic
 pinecone
-uvicorn
+python-multipart
